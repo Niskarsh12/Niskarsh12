@@ -1,6 +1,6 @@
 # Hello World, I'm Nishkarsh Dwivedi! 🌟
 
-![Banner](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)
+![Banner](https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif)
 
 Welcome to my space on GitHub! I'm a **Higher Mathematics undergrad** and an enthusiastic web developer in training, deeply engrossed in mastering **Next.js**, **TypeScript**, and a spectrum of cutting-edge web technologies. My ambition is to craft seamless, robust, and scalable digital experiences that resonate with users worldwide.
 
